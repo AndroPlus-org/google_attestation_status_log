@@ -76,22 +76,6 @@
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
     },
-    "1f4363f4acefdf83ae59202b934cead9" : {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "ee3ac673107ddf0831027a84c532bee4" : {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "633d72164968d2b7ec1a927a14c8efbe" : {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "c35747a084470c3135aeefe2b8d40cd6" : {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
     "2775678662643671941" : {
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
