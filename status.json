@@ -1663,6 +1663,62 @@
     "5871646753572800414": {
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
+    },
+    "10182630751496984110": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "11004354893796124535": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "13063048137843225758": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "14138857243207454896": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "17342033108574180851": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "2441400622645777626": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "2b0a09a69c59b482ddb8a21786fdd439": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "3644717209372610241": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "4393895627937872466": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "4648453603379027456": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "511301ba8fd1c44c317f78dc1d7d2cd1": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "6843403734403185074": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "9460229422403884383": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "b48dbbd75efb21cd0a48497f8176d0": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
     }
   }
 }
