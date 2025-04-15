@@ -2011,6 +2011,14 @@
     "7479719643467672731": {
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
+    },
+    "11231722307852259634": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "3249146971187585601": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
     }
   }
 }
