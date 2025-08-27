@@ -6244,39 +6244,7 @@
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
     },
-    "fc8ac4908ccf0770d204c084a2fd2759": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "f5e8c57b5b9ae090108ae5a1e879f537": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
     "16164959107931297990": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "5d6089ead449c01c765c50f7b5ef80cc": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "a7a175c1f0e287abff1e7d9894ad8b87": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "e4aa5e4e1d4b8beaf1421326c50e9639": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "45167a59884ec2214891308666294d94": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "5638042378294581885": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "13599046083946479996": {
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
     }
