@@ -6487,14 +6487,6 @@
     "3632934148483647661": {
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
-    },
-    "71dcb21d4c15ad56a1af5954690ceb2d": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
-    },
-    "487dcac1af86ff04ae7b1b9cdd521f9": {
-      "status": "REVOKED",
-      "reason": "KEY_COMPROMISE"
     }
   }
 }
